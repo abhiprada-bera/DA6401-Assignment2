@@ -5,8 +5,10 @@ This project implements a comprehensive visual perception pipeline using the Oxf
 1.  **Pet Breed Classification** (37 classes)
 2.  **Object Detection** (Bounding box regression)
 3.  **Semantic Segmentation** (Trimap-based segmentation)
-Link for W&B report
+#Link for W&B report
 https://drive.google.com/file/d/1rIXcHMkyKV_zDM0cZxa6pLleLzTak4yQ/view?usp=sharing
+#Link for github:
+https://github.com/abhiprada-bera/DA6401-Assignment2
 
 ## Project Structure
 
