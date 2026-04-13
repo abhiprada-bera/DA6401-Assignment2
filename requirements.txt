@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision
+numpy
+matplotlib
+pillow
+gdown
+scikit-learn
+seaborn
+nbformat
+tqdm
